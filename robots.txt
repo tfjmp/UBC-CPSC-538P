@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://tfjmp.org/UBC-CPSC-538P/sitemap.xml
